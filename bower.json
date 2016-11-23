@@ -1,0 +1,20 @@
+{
+  "name": "mean_todo_app",
+  "description": "Simple todo app",
+  "main": "server.js",
+  "authors": [
+    "Andrey Ilyin"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
